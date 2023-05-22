@@ -7,10 +7,7 @@
   display: grid;
   justify-content: center;
 }
-.card {
-  height: 100vh;
-  width: 500px;
-}
+
 .cityImg {
   height: 100px;
   width: 220px;
